@@ -1,0 +1,1 @@
+Proyek ini adalah contoh aplikasi Java yang mendemonstrasikan penggunaan konstruktor, metode getter, serta konsep casting dan penggunaan keyword `super` dan `this`. Proyek ini mencakup kelas `Siswa`, `Guru`, dan `KepalaSekolah`, serta menunjukkan bagaimana mereka digunakan dalam kelas `Utama`.
